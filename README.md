@@ -1,6 +1,8 @@
-# ChatGPT Roles
+<img src="/rolesgpt-logo.png" alt="ChatGPT - Awesome List of Roles" width="500"/>
 
-An awesome list of ChatGPT roles. 
+An extensive list of Starter Prompts for ChatGPT. Use this as a primer for your own custom roles.
+
+Currently roughly 250 roles, with more to come.
 
 ------
 
